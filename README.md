@@ -6,7 +6,7 @@ Projeto construído apos
 evento Next Level Week
 da Rocketseat como desafio.
 
-[🔗 Clique aqui para acessar]()
+[🔗 Clique aqui para acessar](https://dhonatanjoseildo.github.io/Movie-Favorites/)
 
 ## 👨‍💻 Tecnologias
 
